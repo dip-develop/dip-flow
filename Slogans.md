@@ -2,7 +2,6 @@
 With **TheTeam** you always know what’s going on in your team. 
 **TheTeam**: a tool for modern teams.
 Track time, projects and results with **TheTeam**.
-**TheTeam**: a free solution for small teams and freelancers.
 **TheTeam:** make your team even better.
 **TheTeam**: everything you need to manage a team.
 
