@@ -26,7 +26,7 @@
 - hours worked for the current day
 - current 10 tasks
 
-![latest 5 time treсking](https://dev.azure.com/dipdev/75d4b580-bb8d-4f53-81d6-849ac12266fc/_apis/wiki/wikis/3a5c0218-960a-4d25-b776-4680e2826e82/pages/35/comments/attachments/4e6e0978-4a8d-4ac8-af09-2e8a5ffe3ca2) 
+![latest 5 time treсking](/.attachments/Screenshot%20from%202023-04-21%2013-44-55-ebca45fc-3b9a-488e-beae-0482a758875b.png)
 
 ## Time Tracking
 ### The user must be able to:
