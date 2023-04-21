@@ -2,7 +2,7 @@
 
 - [Main sections in the application](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=main-sections-in-the-application%3A)
 - [Authentication](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=authentication%3A)
-- [Profile](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=profile)
+- [Profile](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=profile%3A)
 
 ## Main sections in the application:
 - [Dashboard](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=dashboard%3A)
