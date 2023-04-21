@@ -1,3 +1,9 @@
+# Content
+
+- [Main sections in the application](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=main-sections-in-the-application%3A)
+- [Authentication](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=authentication%3A)
+- [Profile](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=profile)
+
 ## Main sections in the application:
 - [Dashboard](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=dashboard%3A)
 - [Time Tracking](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=/Functional&pageId=35&anchor=dashboard%3A)
