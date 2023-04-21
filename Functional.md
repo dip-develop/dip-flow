@@ -20,6 +20,9 @@
 - login by socials
 - link socials with the present account
 
+![login via email](/.attachments/image-5a8d2f5b-0909-4ac8-9f77-5f598f4722e0.png)
+![register by mail](/.attachments/image-785d7f06-f1d2-4c29-826f-2cb18122fa1f.png)
+
 ## Dashboard:
 ### The user must have access to:
 - latest 5 time treсking
