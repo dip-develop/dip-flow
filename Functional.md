@@ -1,6 +1,6 @@
 ## Main sections in the application:
 - Dashboard
-- Time Tracking
+- [Time Tracking](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=/Functional&pageId=35&anchor=dashboard%3A)
 - Tasks
 - Projects
 - Teams
