@@ -1,12 +1,12 @@
 # Content
 
-- [Main sections in the application](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=main-sections-in-the-application%3A)
-- [Authentication](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=authentication%3A)
-- [Profile](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki/35/Functional?_a=edit&anchor=profile)
+- [Main sections in the application](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=main-sections-in-the-application)
+- [Authentication](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=authentication)
+- [Profile](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki/35/?wikiVersion=GBwikiMaster&_a=edit&pagePath=/Functional&anchor=profile)
 
 ## Main sections in the application:
-- [Dashboard](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=dashboard%3A)
-- [Time Tracking](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=/Functional&pageId=35&anchor=dashboard%3A)
+- [Dashboard](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=dashboard)
+- [Time Tracking](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=/Functional&pageId=35&anchor=dashboard)
 - [Tasks](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=tasks)
 - [Projects](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=projects)
 - [Teams](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=teams)
