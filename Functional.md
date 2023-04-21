@@ -2,7 +2,7 @@
 - [Dashboard](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=dashboard%3A)
 - [Time Tracking](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=/Functional&pageId=35&anchor=dashboard%3A)
 - [Tasks](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=tasks)
-- Projects
+- [Projects](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=projects)
 - Teams
 - HR
 - Recruiter
@@ -43,3 +43,16 @@
 ![Time Tracking](https://dev.azure.com/dipdev/75d4b580-bb8d-4f53-81d6-849ac12266fc/_apis/wiki/wikis/3a5c0218-960a-4d25-b776-4680e2826e82/pages/35/comments/attachments/e8a02c44-6fc2-4af1-9560-d5a4fcde98d9) 
 
 ## Tasks
+// TODO: Create a description
+## Projects
+// TODO: Create a description
+## Teams
+// TODO: Create a description
+## HR
+// TODO: Create a description
+## Recruiter
+// TODO: Create a description
+## Reports
+// TODO: Create a description
+## Settings
+// TODO: Create a description
