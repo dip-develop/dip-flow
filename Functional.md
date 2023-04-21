@@ -31,8 +31,6 @@
 
 ![latest 5 time treсking](/.attachments/image-89666169-79da-4cfa-807a-f539ef7bb693.png)
 
-![latest 5 time treсking](/.attachments/Screenshot%20from%202023-04-21%2013-44-55-ebca45fc-3b9a-488e-beae-0482a758875b.png)
-
 ## Time Tracking
 ### The user must be able to:
 - create a time tracking
