@@ -1,24 +1,32 @@
 # Content
 
-- [Main sections in the application](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=main-sections-in-the-application)
-- [Authentication](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=authentication)
-- [Profile](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki/35/?wikiVersion=GBwikiMaster&_a=edit&pagePath=/Functional&anchor=profile)
+- [Main sections in the application](#main-sections-in-the-application)
+- [Authentication](#authentication)
+- [Profile](#profile)
 
 ## Main sections in the application:
-- [Dashboard](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=dashboard)
-- [Time Tracking](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&_a=edit&pagePath=/Functional&pageId=35&anchor=dashboard)
-- [Tasks](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=tasks)
-- [Projects](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=projects)
-- [Teams](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=teams)
-- [HR](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=hr)
-- [Recruiter](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=recruiter)
-- [Reports](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=reports)
-- [Settings](https://dev.azure.com/dipdev/TheTeam/_wiki/wikis/TheTeam.wiki?wikiVersion=GBwikiMaster&pagePath=/Functional&pageId=35&_a=edit&anchor=settings)
 
-![Menu](https://dev.azure.com/dipdev/75d4b580-bb8d-4f53-81d6-849ac12266fc/_apis/wiki/wikis/3a5c0218-960a-4d25-b776-4680e2826e82/pages/35/comments/attachments/867002f0-828f-4e65-a583-c0979725d995) 
+- [Content](#content)
+  - [Main sections in the application:](#main-sections-in-the-application)
+  - [Dashboard:](#dashboard)
+    - [The user must have access to:](#the-user-must-have-access-to)
+  - [Time Tracking](#time-tracking)
+    - [The user must be able to:](#the-user-must-be-able-to)
+  - [Tasks](#tasks)
+  - [Projects](#projects)
+  - [Teams](#teams)
+  - [HR](#hr)
+  - [Recruiter](#recruiter)
+  - [Reports](#reports)
+  - [Settings](#settings)
+  - [Authentication:](#authentication)
+    - [The user must be able to:](#the-user-must-be-able-to-1)
+  - [Profile](#profile)
 
 ## Dashboard:
+
 ### The user must have access to:
+
 - latest 5 time traсking
 - hours worked for the current day
 - current 10 tasks
@@ -26,7 +34,9 @@
 ![latest 5 time traсking](/.attachments/image-89666169-79da-4cfa-807a-f539ef7bb693.png)
 
 ## Time Tracking
+
 ### The user must be able to:
+
 - create a time tracking
 - add task, title, and description to the time tracking
 - modify the time tracking
@@ -35,22 +45,37 @@
 - be able to search by title, task, and description
 
 ## Tasks
+
 // TODO: Create a description
+
 ## Projects
+
 // TODO: Create a description
+
 ## Teams
+
 // TODO: Create a description
+
 ## HR
+
 // TODO: Create a description
+
 ## Recruiter
+
 // TODO: Create a description
+
 ## Reports
+
 // TODO: Create a description
+
 ## Settings
+
 // TODO: Create a description
 
 ## Authentication:
+
 ### The user must be able to:
+
 - register by mail
 - login via email
 - restore password
@@ -62,4 +87,5 @@
 ![register by mail](/.attachments/image-785d7f06-f1d2-4c29-826f-2cb18122fa1f.png)
 
 ## Profile
+
 // TODO: Create a description

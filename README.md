@@ -6,11 +6,21 @@
 
 ## Links
 
-#### [Protos](https://github.com/dip-develop/dip-flow-protos)
+#### [Frontend](https://github.com/dip-develop/dip-flow-frontend)
 
 #### [Backend](https://github.com/dip-develop/dip-flow-backend)
 
-#### [Frontend](https://github.com/dip-develop/dip-flow-frontend)
+#### [Protos](https://github.com/dip-develop/dip-flow-protos)
+
+## **DIP Flow**: tool for modern teams
+
+- [Introducing](/Introducing.md)
+- [Goals](/Goals.md)
+- [Slogans](/Slogans.md)
+- [Summary](/Summary.md)
+- [Marketing](/Marketing.md)
+- [Functional](/Functional.md)
+- [Search the voluntears](/Search-the-voluntears.md)
 
 ## Sponsoring
 
